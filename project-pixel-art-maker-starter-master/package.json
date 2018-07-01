@@ -1,0 +1,19 @@
+{
+  "name": "pixel-art-maker",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "designs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlingtim/darlingtim.github.io-pixel-art-maker.git"
+  },
+  "author": "Timothy Ododo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darlingtim/darlingtim.github.io-pixel-art-maker/issues"
+  },
+  "homepage": "https://github.com/darlingtim/darlingtim.github.io-pixel-art-maker#readme"
+}
